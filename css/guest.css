@@ -113,3 +113,19 @@ svg {
 .no-gap-bottom {
     margin-bottom: -0.75rem !important;
 }
+
+.info-title {
+    line-height: 24px;
+}
+
+.info-button {
+    min-width: 76px;
+    min-height: 24px;
+    max-height: 24px;
+    line-height: 24px;
+}
+
+.info-button > i {
+    position: relative;
+    top: 1px
+}
